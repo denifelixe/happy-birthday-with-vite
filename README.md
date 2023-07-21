@@ -12,4 +12,4 @@ run `npm install` first.
 
 then if you want to run in your local, run `npm run dev`
 
-in your production site, run `npm run build`. In production after build, point the root html file to `dist/index.html`
+in your production site, run `npm run build`. In production after build, point the root html file to `dist/index.html`. If you've made any change to your .env make sure to run the `npm run build` again
